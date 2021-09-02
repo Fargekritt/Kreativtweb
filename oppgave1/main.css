@@ -1,0 +1,13 @@
+header{
+    border: 2px solid blue;
+    background-color: purple;
+}
+header h1 {
+    color: white;
+}
+h3 {
+    background-color: purple;
+}
+.test {
+    background-color: blue;
+}

@@ -1,11 +1,23 @@
 .float-container {
     border: 3px solid #fff;
-    padding: 20px;
 }
 
 .float-child {
-    width: 50%;
+    width: 32%;
     float: left;
-    padding: 20px;
     border: 2px solid red;
+    margin-right: 10px;
 }  
+.midt {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+p.midt
+{
+    width: 95%;
+}
