@@ -1,16 +1,17 @@
 h1 {
     text-align: center;
 }
-img {
-    text-align: center;
-}
-a {
-    text-align: center;
-}
 
 .midt {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    border: 1px solid black;
 }
